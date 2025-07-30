@@ -1,1 +1,8 @@
 solution
+
+ &: bitwise AND- The bitwise AND operator (&) compares each bit of the first operand to the corresponding bit of
+ the second operand. If both bits are 1, the corresponding result bit is set to 1. Otherwise, the corresponding result
+ bit is set to 0.
+ ^ is the bitwise XOR operator that compares each bit of its first operand to the corresponding bit of its second
+ operand. If one bit is 0 and the other bit is 1, the corresponding result bit is set to 1. Otherwise, the corresponding
+ result bit is set to 0.

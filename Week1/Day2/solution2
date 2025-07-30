@@ -1,1 +1,14 @@
 solution 2
+ &: bitwise AND- The bitwise AND operator (&) compares each bit of the first operand to the corresponding bit of
+ the second operand. If both bits are 1, the corresponding result bit is set to 1. Otherwise, the corresponding result
+ bit is set to 0.
+ A. 35
+ B. 49
+ C. 19
+ D. 28
+ Explanation: In line 3, the conditional statement ‘if’ will evaluate on the basis of given condition, which is, 13<(7+2)
+ => 13<9,which is False. Since ‘if’ condition is False, the cursor of execution will directly come at line 9; an alternate
+part of ‘if’ means else block. Inside else block there is one ‘if’ statement (line 10), so the condition will be executed,
+ which is, (1+2-8)<(8+1) => (-5)<9, which is True, that is why line 11 will be executed and it will update the variable
+ pp. New value for variable pp will be (1+8)=9. Now it will come at line 15 and will add all three variables together
+ and display the result, which will: 9+2+17=28, Option D.

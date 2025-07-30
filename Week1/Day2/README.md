@@ -2,4 +2,4 @@
 
 ## Problems
 - [Problem 1](https://github.com/AdityaThakur535/PIPTP-Prep-2025/blob/main/Week1/Day2/solution1)
-- Problem 2
+- [Problem 2](https://github.com/AdityaThakur535/PIPTP-Prep-2025/blob/main/Week1/Day2/solution2)

@@ -1,1 +1,27 @@
-Problem 1
+Problem 1-
+
+public class Main {
+    public static void main(String[] args) {
+        int x = 5, y = 3, z;
+
+        if (x > y) {
+            if (y > 0) {
+                z = x / y; // Integer division
+            } else {
+                z = x * y;
+            }
+        } else {
+            z = 0;
+        }
+
+        System.out.println(z);
+    }
+}
+
+Output - 1
+
+
+
+
+Problem 2-
+

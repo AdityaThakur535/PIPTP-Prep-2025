@@ -1,1 +1,9 @@
+x = 5 
+function demo(x) 
+x = x + 1 
+print(x) 
+demo(x) 
+print(x) 
 
+Output - 6
+         5

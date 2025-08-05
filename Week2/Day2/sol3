@@ -1,1 +1,9 @@
+x = 100 
+function check() 
+x = 50 
+print(x) 
+check() 
+print(x) 
 
+Output - 50
+100

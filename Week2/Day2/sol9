@@ -1,0 +1,12 @@
+x = 1 
+ 
+function outer() 
+    x = 2 
+    function inner() 
+        print(x) 
+    inner() 
+ 
+outer() 
+
+
+Output - 2

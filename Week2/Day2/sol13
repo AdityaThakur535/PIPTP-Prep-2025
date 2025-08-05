@@ -1,0 +1,9 @@
+val = 2 
+ 
+function mul() 
+    val = val * 2 
+    return val 
+ 
+print(mul()) 
+
+Output - 4

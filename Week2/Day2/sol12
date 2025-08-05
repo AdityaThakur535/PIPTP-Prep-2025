@@ -1,0 +1,8 @@
+x = 10 
+function change() 
+    x = x + 5 
+ 
+change() 
+print(x) 
+
+Output is 15
